@@ -1,0 +1,32 @@
+.op ,
+#left_menu_item_header,
+#iconmenu,
+#filterform, 
+#bread ,
+#breadmenu,
+#breadleftmenu ,
+hr{
+font-size:16px;
+   display:         none !important;
+}
+
+table,tr,td
+{
+font-size:16px;
+line-height:25px;
+font-weight:normal;
+border:none;
+}
+#tdd
+{
+   font-size:16px;
+   border:none;
+}
+#title
+{
+   font-size:18px;
+}
+#rec
+{
+   font-size:16px;
+}
